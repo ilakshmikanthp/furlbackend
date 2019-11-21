@@ -1,0 +1,16 @@
+{
+  "info": {
+    "title": "TeamLease Digital Workforce Solutions - ATL",
+    "version": "1.0.0",
+    "description": "TL DWS - ATL API's"
+  },
+  "host": "localhost:3000",
+  "basePath": "/api",
+  "swagger": "2.0",
+  "paths": {},
+  "definitions": {},
+  "responses": {},
+  "parameters": {},
+  "securityDefinitions": {},
+  "tags": []
+}

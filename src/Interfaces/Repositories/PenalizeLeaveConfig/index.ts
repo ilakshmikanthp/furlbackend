@@ -1,0 +1,1 @@
+export { IPenalizeLeaveConfig } from './IPenalizeLeaveConfig';

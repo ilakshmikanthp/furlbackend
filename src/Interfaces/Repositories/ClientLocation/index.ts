@@ -1,0 +1,1 @@
+export { IClientLocation } from './IClientLocation';

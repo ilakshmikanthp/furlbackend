@@ -1,0 +1,1 @@
+export { IPenalizeType } from './IPenalizeType';
