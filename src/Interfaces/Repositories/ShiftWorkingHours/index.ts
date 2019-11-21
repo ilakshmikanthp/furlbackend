@@ -1,1 +1,0 @@
-export { IShiftWorkingHours } from './IShiftWorkingHours';

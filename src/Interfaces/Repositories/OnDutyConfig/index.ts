@@ -1,1 +1,0 @@
-export { IOnDutyConfig } from './IOnDutyConfig';

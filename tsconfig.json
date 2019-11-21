@@ -54,12 +54,6 @@
 			],
 			"@Entities": [
 				"src/Entities"
-			],
-			"@Test/*": [
-				"test/*"
-			],
-			"@Test": [
-				"test"
 			]
 		}
 	},
@@ -68,7 +62,6 @@
 	],
 	"include": [
 		"./src/**/*.ts",
-		"./services/**/*.ts",
-		"./test/**/*.ts"
+		"./services/**/*.ts"
 	]
 }
